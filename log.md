@@ -1,30 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: August 19, Friday
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I started watching Alex Lee's YouTube tutorial on Hashmaps. I can solve Two Sum in LeetCode only by brute force O(N^2). I'm trying to solve it using a hashmap. I'm also reading the tech interview handbook and starting Leetcode Patterns by Sean Prashad. 
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [HashMaps Tutorial](https://www.youtube.com/watch?v=70qy6_gw1Hc&t=4s))
+2. [Leetcode Patterns](https://www.freecodecamp.com/challenges/title-case-a-sentence](https://seanprashad.com/leetcode-patterns/))
