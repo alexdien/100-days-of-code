@@ -19,3 +19,12 @@
 
 **Link(s) to work**
 1. [NeetCode](https://neetcode.io/)
+
+### Day 3: August 21, Sunday
+
+**Today's Progress**: I'm following the NeetCode 150. Today I struggled solving the Valid Anagrams LC #242, but after watching a few videos, I think I understand it now.
+
+**Thoughts** I need to review arrays in Java. This syntax confused me the most in the solution: intArray[s.charAt(i)]++, but after much thinking I realized the array has a spot for each unique ASCII character and the computer knows to increment each different space. I will continue grinding LC!
+
+**Link(s) to work**
+1. [Valid Anagrams Solution](https://www.youtube.com/watch?v=SFuJv7FwZX8)
