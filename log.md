@@ -29,9 +29,19 @@
 **Link(s) to work**
 1. [Valid Anagrams Solution](https://www.youtube.com/watch?v=SFuJv7FwZX8)
 
+
 ### Day 4: August 22, Monday
 
 **Today's Progress**: Today I didn't code much since I am preparing for an interview on Wednesday. I will go over my projects and also try to practice some LC array questions.
+
+**Thoughts** I'm nervous for this interview and not sure if it is technical or not. I'm preparing by reading Cracking the Coding Interview.
+
+**Link(s) to work**
+N/A
+
+### Day 5: August 23, Tuesday
+
+**Today's Progress**: I spent sometime learning about Python and Colab in one of my classes. I also prepared a bit more for my interview on Wednesday.
 
 **Thoughts** I'm nervous for this interview and not sure if it is technical or not. I'm preparing by reading Cracking the Coding Interview.
 
