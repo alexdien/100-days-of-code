@@ -47,3 +47,12 @@ N/A
 
 **Link(s) to work**
 N/A
+
+### Day 6: August 24, Wednesday
+
+**Today's Progress**: I had my interview and they had me code in Java. 
+
+**Thoughts** I got nervous under the pressure and my mind went blank.
+
+**Link(s) to work**
+N/A
