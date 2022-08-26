@@ -56,3 +56,12 @@ N/A
 
 **Link(s) to work**
 N/A
+
+### Day 7: August 25, Thursday
+
+**Today's Progress**: I learned some new CLI commands in my Python class. I also figured out how to solve my interview coding question.
+
+**Thoughts** I definitely didn't perform as well as I could, because I solved it in 5 minutes.
+
+**Link(s) to work**
+N/A
