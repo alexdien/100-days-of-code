@@ -65,3 +65,12 @@ N/A
 
 **Link(s) to work**
 N/A
+
+### Day 8: August 26, Friday
+
+**Today's Progress**: I learned about Two Pointers and attempted to solve Valid Palindrome.
+
+**Thoughts** I'm starting to read Computational Thinking. I think this will be a good skill to have. 
+
+**Link(s) to work**
+1. https://leetcode.com/problems/valid-palindrome/
