@@ -74,3 +74,12 @@ N/A
 
 **Link(s) to work**
 1. https://leetcode.com/problems/valid-palindrome/
+
+### Day 9: August 27, Saturday
+
+**Today's Progress**: I learned how to solve Valid Palindrome using Two Pointer technique.
+
+**Thoughts** Need to practice using while loops more.
+
+**Link(s) to work**
+1. https://leetcode.com/problems/valid-palindrome/
