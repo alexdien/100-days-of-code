@@ -83,3 +83,14 @@ N/A
 
 **Link(s) to work**
 1. https://leetcode.com/problems/valid-palindrome/
+
+**Link(s) to work**
+1. https://leetcode.com/problems/valid-palindrome/
+
+### Day 10: August 28, Sunday
+
+**Today's Progress**: I'm trying to solve Best Time to Buy and Sell LC.
+
+**Thoughts** Need to get better with pointers.
+
+**Link(s) to work**
