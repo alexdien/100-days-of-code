@@ -94,3 +94,11 @@ N/A
 **Thoughts** Need to get better with pointers.
 
 **Link(s) to work**
+
+### Day 11: August 29, Monday
+
+**Today's Progress**: Did some reading on Data Science for Business.
+
+**Thoughts** Not much time today.
+
+**Link(s) to work**
