@@ -102,3 +102,11 @@ N/A
 **Thoughts** Not much time today.
 
 **Link(s) to work**
+
+### Day 12: August 30, Tuesday
+
+**Today's Progress**: Did some practice in Colab with pandas.
+
+**Thoughts** Trying to fit in LC time but school is busy.
+
+**Link(s) to work**
