@@ -110,3 +110,11 @@ N/A
 **Thoughts** Trying to fit in LC time but school is busy.
 
 **Link(s) to work**
+
+### Day 13: August 31, Wednesday
+
+**Today's Progress**: Practiced some LC problems today. Also studying for 2 interviews.
+
+**Thoughts** Trying to balance time between classes.
+
+**Link(s) to work**
