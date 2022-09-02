@@ -118,3 +118,11 @@ N/A
 **Thoughts** Trying to balance time between classes.
 
 **Link(s) to work**
+
+### Day 14: September 1, Thursday
+
+**Today's Progress**: I did two interviews today. I also learned a lot of BASH commands.
+
+**Thoughts** Need to start prepping for upcoming interview and brush up on Java OOP concepts. 
+
+**Link(s) to work**
