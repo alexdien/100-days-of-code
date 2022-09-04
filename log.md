@@ -126,3 +126,19 @@ N/A
 **Thoughts** Need to start prepping for upcoming interview and brush up on Java OOP concepts. 
 
 **Link(s) to work**
+
+### Day 15: September 2, Friday
+
+**Today's Progress**: Did some Python learning.
+
+**Thoughts** Forgot to log this day. Gonna take a rest on Saturday.
+
+**Link(s) to work**
+
+### Day 16: September 3, Saturday
+
+**Today's Progress**: Nothing today.
+
+**Thoughts** Took a rest day. Will get back tomorrow.
+
+**Link(s) to work**
