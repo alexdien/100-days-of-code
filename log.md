@@ -142,3 +142,11 @@ N/A
 **Thoughts** Took a rest day. Will get back tomorrow.
 
 **Link(s) to work**
+
+### Day 17: September 5, Monday
+
+**Today's Progress**: Did some Data Science reading, and Cybersecurity reading.
+
+**Thoughts** Gonna start prepping for technical interviews coming up.
+
+**Link(s) to work**
