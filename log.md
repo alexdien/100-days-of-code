@@ -150,3 +150,11 @@ N/A
 **Thoughts** Gonna start prepping for technical interviews coming up.
 
 **Link(s) to work**
+
+### Day 18: September 6, Tuesday
+
+**Today's Progress**: Used Seaborn library in Python.
+
+**Thoughts** Need to start reviewing Classification trees.
+
+**Link(s) to work**
