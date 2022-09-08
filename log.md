@@ -158,3 +158,12 @@ N/A
 **Thoughts** Need to start reviewing Classification trees.
 
 **Link(s) to work**
+
+### Day 19: September 7, Wednesday
+
+**Today's Progress**: Solved LC 121. Best Time to Buy and Sell Stock using Integer.MAX_VALUE
+
+**Thoughts** Need to practice OOP for upcoming interview.
+
+**Link(s) to work**
+121. Best Time to Buy and Sell Stock
