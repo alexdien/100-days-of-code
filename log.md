@@ -167,3 +167,12 @@ N/A
 
 **Link(s) to work**
 121. Best Time to Buy and Sell Stock
+
+### Day 20: September 8, Thursday
+
+**Today's Progress**: Learned some new BASH scripts and practicing Python in VI/VIM.
+
+**Thoughts** Prepping for 2 interviews! Feeling excited.
+
+**Link(s) to work**
+
