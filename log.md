@@ -176,3 +176,11 @@ N/A
 
 **Link(s) to work**
 
+### Day 21: September 9, Friday
+
+**Today's Progress**: Learned about threats/vulnerabilities in Cybersecurity.
+
+**Thoughts** Prepping for 2 interviews! Feeling excited. Also gonna start the Salesforce Chatbot competition soon.
+
+**Link(s) to work**
+
