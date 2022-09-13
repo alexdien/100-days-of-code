@@ -184,3 +184,10 @@ N/A
 
 **Link(s) to work**
 
+### Day 22: September 12, Monday
+
+**Today's Progress**: I learned some loops in Python. I slacked the past 2 days.
+
+**Thoughts** I'm feeling confident about my interview today! Hoping for good news this week. 
+
+**Link(s) to work**
