@@ -191,3 +191,11 @@ N/A
 **Thoughts** I'm feeling confident about my interview today! Hoping for good news this week. 
 
 **Link(s) to work**
+
+### Day 23: September 13, Tuesday
+
+**Today's Progress**: Today I learned about Naive Bayes Classification Method and creating decision trees with sklearn in Colab.
+
+**Thoughts** Need to start on chatbot ideathon as well as study for Fidelity.
+
+**Link(s) to work**
