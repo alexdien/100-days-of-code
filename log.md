@@ -199,3 +199,11 @@ N/A
 **Thoughts** Need to start on chatbot ideathon as well as study for Fidelity.
 
 **Link(s) to work**
+
+### Day 24: September 14, Wednesday
+
+**Today's Progress**: Today I worked on the Salesforce Chatbot ideathon as well as some Python homework.
+
+**Thoughts** Need to research more on the Salesforce Chatbot.
+
+**Link(s) to work**
