@@ -207,3 +207,12 @@ N/A
 **Thoughts** Need to research more on the Salesforce Chatbot.
 
 **Link(s) to work**
+
+### Day 25: September 16, Friday
+
+**Today's Progress**: I worked on the Salesforce Chatbot challenge all of yesterday and today. It paid off as our team placed second overall!
+
+**Thoughts** Now I need to do some hard Java concepts prep for interviews.
+
+**Link(s) to work**
+
