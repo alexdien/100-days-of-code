@@ -216,3 +216,10 @@ N/A
 
 **Link(s) to work**
 
+### Day 26: September 20, Monday
+
+**Today's Progress**: Prepping for 2 upcoming interviews. Did some Python homework,
+
+**Thoughts** Prepping hard for my 2 interviews this Wednesday. Primarily focusing on OOP and Java concepts.
+
+**Link(s) to work**
