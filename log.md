@@ -223,3 +223,11 @@ N/A
 **Thoughts** Prepping hard for my 2 interviews this Wednesday. Primarily focusing on OOP and Java concepts.
 
 **Link(s) to work**
+
+### Day 27: September 20, Tuesday
+
+**Today's Progress**: Python class is hard asf. Also prepping.
+
+**Thoughts** Prepping hard for my 2 interviews this Wednesday. Primarily focusing on OOP and Java concepts.
+
+**Link(s) to work**
